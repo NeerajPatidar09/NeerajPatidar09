@@ -14,24 +14,6 @@ I enjoy solving complex backend problems, improving application performance, and
 - 🧪 **Code quality:** JUnit, Mockito, unit testing, and code reviews
 - 🚀 **Interests:** FinTech, RegTech, distributed systems, and scalable backend engineering
 
----
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://linkedin.com/in/linkedin.com/in/neeraj-patidar-777249324">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="https://github.com/NeerajPatidar09">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="mailto:Patidarneeraj009@gmail.com">
-  <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png"
-       width="40"
-       height="40"
-       alt="Gmail"/>
-</a> 
-</p>
-
 # 💻 Tech Stack:
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css,python" />
@@ -44,9 +26,6 @@ I enjoy solving complex backend problems, improving application performance, and
 ![](https://github-readme-stats.shion.dev/api?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=NeerajPatidar09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
----
 
 ## 💼 Professional Experience
 
@@ -76,12 +55,8 @@ I enjoy solving complex backend problems, improving application performance, and
 - Improved backend validation and data integrity.
 - Troubleshot production issues and documented APIs and workflows.
 
----
-
 ## 🚀 Selected Project Experience
 
-
----
 
 ## 🧠 Areas of Interest
 
@@ -97,6 +72,22 @@ I enjoy solving complex backend problems, improving application performance, and
 I am expanding my portfolio with practical backend engineering projects focused on enterprise-grade architecture, financial risk monitoring, database design, event-driven processing, and scalable APIs.
 
 My goal is to demonstrate not only how to build an application, but also how to design it for reliability, security, maintainability, and performance.
+
+## 🌐 Socials:
+<p align="left">
+  <a href="https://linkedin.com/in/linkedin.com/in/neeraj-patidar-777249324">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/NeerajPatidar09">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="mailto:Patidarneeraj009@gmail.com">
+  <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png"
+       width="40"
+       height="40"
+       alt="Gmail"/>
+</a> 
+</p>
 
 ---
 
