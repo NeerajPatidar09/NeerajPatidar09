@@ -27,37 +27,6 @@ I enjoy solving complex backend problems, improving application performance, and
 ![](https://streak-stats.demolab.com/?user=NeerajPatidar09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 💼 Professional Experience
-
-### Software Engineer — KSVSoftTech Pvt Ltd
-*January 2024 – Present*
-
-- Develop core features for business-critical Spring Boot microservices.
-- Optimize Hibernate/JPA database queries, improving API response times by 20%.
-- Implement authentication and authorization using Spring Security and JWT.
-- Design and integrate RESTful APIs with frontend applications.
-- Conduct code reviews and write JUnit tests to improve code quality and reduce regressions.
-- Collaborate with cross-functional teams on backend development and system architecture.
-
-### Associate Software Engineer — KSVSoftTech Pvt Ltd
-*June 2023 – December 2023*
-
-- Developed and tested Spring Boot microservices and REST APIs.
-- Integrated backend services with client-side applications.
-- Supported database query optimization using Hibernate and JPA.
-- Promoted to Software Engineer in January 2024.
-
-### Software Engineer Trainee — YPSILON IT Solutions Pvt Ltd
-*November 2022 – April 2023*
-
-- Developed CRUD REST APIs using Spring Boot and Hibernate.
-- Built modular service and repository layers.
-- Improved backend validation and data integrity.
-- Troubleshot production issues and documented APIs and workflows.
-
-## 🚀 Selected Project Experience
-
-
 ## 🧠 Areas of Interest
 
 - Advanced Java and JVM fundamentals
