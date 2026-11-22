@@ -23,9 +23,8 @@ I enjoy solving complex backend problems, improving application performance, and
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NeerajPatidar09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=NeerajPatidar09&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://streak-stats.demolab.com/?user=NeerajPatidar09&theme=dark&hide_border=false)
 
 ## 🧠 Areas of Interest
 
